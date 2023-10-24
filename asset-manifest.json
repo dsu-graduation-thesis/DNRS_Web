@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d8a6f91.css",
+    "main.js": "/static/js/main.86614ffb.js",
+    "static/js/787.16d649dd.chunk.js": "/static/js/787.16d649dd.chunk.js",
+    "static/media/dsu.png": "/static/media/dsu.5e92552b59f164378c67.png",
+    "index.html": "/index.html",
+    "main.0d8a6f91.css.map": "/static/css/main.0d8a6f91.css.map",
+    "main.86614ffb.js.map": "/static/js/main.86614ffb.js.map",
+    "787.16d649dd.chunk.js.map": "/static/js/787.16d649dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d8a6f91.css",
+    "static/js/main.86614ffb.js"
+  ]
+}
