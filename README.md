@@ -17,7 +17,7 @@ React를 활용하여 직접 개발한 추천 시스템의 API를 호출하는 �
 - `JavaScript`
 - **IDE** : VScode
 - **Framework** : React
-- **** : Mybatis
+- **VCS** : GitHub
 
 ## 📌 주요 기능
 #### 사용자 정보 입력받기
