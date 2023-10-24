@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DNRS_Web/index.html/static/css/main.0d8a6f91.css",
+    "main.js": "/DNRS_Web/index.html/static/js/main.05fe6ca4.js",
+    "static/js/787.16d649dd.chunk.js": "/DNRS_Web/index.html/static/js/787.16d649dd.chunk.js",
+    "static/media/dsu.png": "/DNRS_Web/index.html/static/media/dsu.5e92552b59f164378c67.png",
+    "index.html": "/DNRS_Web/index.html/index.html",
+    "main.0d8a6f91.css.map": "/DNRS_Web/index.html/static/css/main.0d8a6f91.css.map",
+    "main.05fe6ca4.js.map": "/DNRS_Web/index.html/static/js/main.05fe6ca4.js.map",
+    "787.16d649dd.chunk.js.map": "/DNRS_Web/index.html/static/js/787.16d649dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d8a6f91.css",
+    "static/js/main.05fe6ca4.js"
+  ]
+}
